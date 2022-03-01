@@ -1,4 +1,4 @@
-#das ist ast A
+#das ist planA
 spiel = True
 spieler = 1
 drehen = False
