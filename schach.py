@@ -1,4 +1,3 @@
-#das ist ast A
 spiel = True
 spieler = 1
 drehen = False
